@@ -1,0 +1,9 @@
+garantiza autonomía, adaptabilidad y sostenibilidad sin depender de grandes corporaciones tecnológicas.
+
+Las comunidades son dueñas de su infraestructura y deciden el destino de sus datos.
+Evita que la información comunitaria sea vendida o vigilada por empresas privadas.
+Elimina el riesgo de que un proveedor cierre el servicio o aumente los precios drásticamente.
+Permite modificar el software para resolver problemas locales específicos que el mercado ignora.
+Node.js es gratuito, lo que reduce el gasto de desarrollo a largo plazo. 
+El código abierto permite que otras comunidades repliquen, mejoren y adapten la solución
+Fomenta la alfabetización digital y capacita a los miembros locales en habilidades técnicas de alta demanda.
